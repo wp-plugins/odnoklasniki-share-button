@@ -22,7 +22,7 @@ Add Odnoklasniki Share Button
 4. Use the Settings->Odnoklasniki Share Button page to change your plugin options.
 == Frequently Asked Questions ==
 How can I request that you improve or add a feature?
-Visit <a href= > plugin page </a>on my site and use contact form or post a comment.
+Visit <a href=http://exy.com.ua/index.php/odnoklassniki-share-button-plagin-pod-wordpress/ > plugin page </a>on my site and use contact form or post a comment.
 == Screenshots ==
 1. Settings page
 2. Button types examples
