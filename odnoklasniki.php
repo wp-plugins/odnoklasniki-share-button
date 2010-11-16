@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Odnoklasniki Share Button
-Version: 1.1
+Version: 1.11
 Plugin URI: http://exy.com.ua/
 Description: Add Odnoklasniki Share Button
 Author: ExyTab
