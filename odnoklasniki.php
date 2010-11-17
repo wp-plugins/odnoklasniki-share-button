@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Odnoklasniki Share Button
-Version: 1.11
+Version: 1.12
 Plugin URI: http://exy.com.ua/
 Description: Add Odnoklasniki Share Button
 Author: ExyTab
@@ -129,10 +129,10 @@ echo '> Слева
 
 if (get_option('size', '')=='odkl-klass') echo 'checked';
 
-echo '> <img border="0" src="/wp-content/plugins/odnoklasniki/big.png"> <br>
+echo '> <img border="0" src="/wp-content/plugins/odnoklasniki-share-button/big.png"> <br>
 		<input type="radio" name="size" value="odkl-klass-s" ';
 if (get_option('size', '')=='odkl-klass-s') echo 'checked';
-echo '> <img border="0" src="/wp-content/plugins/odnoklasniki/small.png"> 
+echo '> <img border="0" src="/wp-content/plugins/odnoklasniki-share-button/small.png"> 
 	</td>
      </tr>
 
